@@ -1,4 +1,4 @@
-# measures_converter
+# Measures Converter
 
 A Flutter app that converts values between common units across multiple measure types:
 - Length (meters, kilometers, miles, feet, inches)
